@@ -1,1 +1,3 @@
-# CSC-151
+# Joey Abbe Abonitalla
+# BSCS
+# CSC-151 Cs2-A
